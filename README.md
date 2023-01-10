@@ -9,3 +9,6 @@ The script reads in the data from the Excel file, concatenates the data frames, 
 
 ## Visualization
 The script also includes a function called plot_name that allows the user to search for a given name and plot the popularity of the name over time.
+
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arielya10/Most-Common-Names/main?labpath=main.ipynb)  
+The above link is a Binder link that allows users to interact with the project's Jupyter notebook in a live, online environment without having to download or set up any software on their own computer. This makes it easy for anyone to access and explore the data and analysis in this project.
